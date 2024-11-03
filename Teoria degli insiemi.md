@@ -55,7 +55,6 @@ Due insiemi vengono definiti uguale se e solo se ogni elemento di uno appartiene
 
 $$
 A\subseteq B \overset{\text{def}}{=}\forall Z,(Z\in A\to Z\in Y)
- 
 $$
 
 Non è un assioma, non va ad introdurre concetti nuovi o definire cos’altro è un insieme o meno, semplicemente permette di indicare più velocemente se un insieme è sottoinsieme dell’altro.
