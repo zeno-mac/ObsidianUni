@@ -250,4 +250,3 @@ Conseguenze: Nessun insieme contiene ricorsivamente sé stesso, per cui ha senso
 L'immagine di un insieme descritto tramite una funzione applicata ad un altro insieme è anche quello un insieme.
 Se A è un insieme "piccolo" e vado a descrivere una funzione che mette in una relazione molti-a-uno gli elementi di un altro insieme, l'insieme immagine è altrettanto "piccolo".
 
-### Pefforza
