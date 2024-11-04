@@ -12,7 +12,7 @@ Una delle primissime teorie degli insiemi, ormai obsoleta perché dimostrata inc
 	- **Elenco:** $A=\{1,\{a,34,\Gamma\}, 4, 5\}$.
 - Non c'è nessuna richiesta di omogeneità all'interno di un insieme, in quanto tutto è un insieme.
 - L'appartenenza $\in$ e l'uguaglianza $=$ sono gli unici predicati di base.
-- Le ripetizioni e l'ordine non contano, l'unica discrimante è l'appartenenza.
+- Le ripetizioni e l'ordine non contano, l'unica discriminante è l'appartenenza.
 - Alcuni esempi sull'appartenenza:
 	- $1\notin 1$
 	- $1\in\{1,2,3\}$
@@ -206,13 +206,13 @@ $$
 
 ### <font color=B292D6>Costruzione dei numeri naturali</font>
 
-Rifacendosi al concetto meta-matematico, andiamo a codificare i numeri naturali all'intermo della nostra teoria degli insiemi.
+Rifacendosi al concetto meta-matematico, andiamo a codificare i numeri naturali all'interno della nostra teoria degli insiemi.
 $$[\![0]\!] \overset{\text{def}}{=} \varnothing \qquad
 [\![n]\!] \overset{\text{def}}{=} [\![n]\!]\cup \{[\![n]\!]\}
 $$
 Per queste due definizioni andiamo ad unire:
 - L'assioma dell'insieme vuoto: esiste $\varnothing$ ^614209
-- L'assiome del singoletto: se esiste $\varnothing$ esiste anche $\{\varnothing\}$, così anche $\{\{\varnothing\}\}$...
+- L'assioma del singoletto: se esiste $\varnothing$ esiste anche $\{\varnothing\}$, così anche $\{\{\varnothing\}\}$...
 - L'assioma dell'unione: esiste $[\![n]\!]\cup \{[\![n]\!]\}$
 Di nuovo, questa è soltanto una definizione, una codifica di un concetto che abbiamo intuitivamente tramite questa teoria degli insiemi. Non è nemmeno l'unico modo per implementare i numeri naturali, è stato scelto questo metodo perché facilmente scalabile ad altri insiemi di numeri in seguito.
 Seguendo la definizione, qualche esempio:
@@ -220,7 +220,7 @@ $$[\![0]\!] = \varnothing \qquad indicato\ con\ 0$$
 $$[\![1]\!] = \{\varnothing\}\qquad indicato\ con\ 1$$
 $$[\![2]\!] = \{\varnothing,\{\varnothing\}\} \qquad indicato\ con\ 2$$
 $$[\![3]\!] = \{\varnothing,\{\varnothing\},\{\varnothing,\{\varnothing\}\}\} \qquad indicato\ con\ 3$$
-Si può dimostrare che ogni numero è diverso, cfr _Logica del prim'ordine_
+Si può dimostrare che ogni numero è diverso, cfr: _Logica del prim'ordine_
 
 ### <font color=B292D6>Assioma dell'infinito</font>
 $$\exists Y,(\varnothing \in Y\land \forall N,\ (N\in Y\to N\ \cup \{N\}\in Y ))
