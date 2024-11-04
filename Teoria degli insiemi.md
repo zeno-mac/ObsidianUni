@@ -212,7 +212,7 @@ $$[\![0]\!] \overset{\text{def}}{=} \varnothing \qquad
 [\![n]\!] \overset{\text{def}}{=} [\![n]\!]\cup \{[\![n]\!]\}
 $$
 Per queste due definizioni andiamo ad unire:
-- L'assioma dell'insieme vuoto: esiste $\varnothing$
+- L'assioma dell'insieme vuoto: esiste $\varnothing$ ^614209
 - L'assiome del singoletto: se esiste $\varnothing$ esiste anche $\{\varnothing\}$, così anche $\{\{\varnothing\}\}$...
 - L'assioma dell'unione: esiste $[\![n]\!]\cup \{[\![n]\!]\}$
 Di nuovo, questa è soltanto una definizione, una codifica di un concetto che abbiamo intuitivamente tramite questa teoria degli insiemi. Non è nemmeno l'unico modo per implementare i numeri naturali, è stato scelto questo metodo perché facilmente scalabile ad altri insiemi di numeri in seguito.

@@ -60,7 +60,7 @@ Questa è una spiegazione Tarskiana della logica, utile come introduzione. Non �
 
 ### <font color=B292D6>Assurdo </font> $\bot$
 
-[[Teoria degli insiemi#^614209]]
+[[Teoria degli insiemi#<font color=B292D6>Assioma dell’insieme vuoto</font>]]
 
 ### <font color=B292D6>Negazione </font>  $\lnot P$
 
