@@ -50,12 +50,13 @@ Questa Ã¨ una spiegazione Tarskiana della logica, utile come introduzione. Non Ã
 ## <font color=8A5BA6>Regole per ogni connettivo</font>
 
 ### <font color=B292D6>Per ogni </font> $\forall x\ P(x)$
-
+ - Eliminazone:
+ - Introduzione:
 
 ### <font color=B292D6>Implicazione </font> $P\to Q$
 
 
-### <font color=B292D6>Comimplica </font> $P\iff Q$
+### <font color=B292D6>Comimplicazione </font> $P\iff Q$
 
 
 ### <font color=B292D6>Assurdo </font> $\bot$
