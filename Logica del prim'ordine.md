@@ -9,8 +9,8 @@
 	- **Lemma:** teorema ancillare, sotto-teorema introdotto solo per una dimostrazione più importante;
 	- **Corollario:** teoremi secondari dalla dimostrazione semplice una volta che il teorema principale è stato dimostrato;
 	- **Conclusione:** enunciato da dimostrare;
-	- **Premessa:** Enunciato che assumiamo in quanto ipostesi o dimostrato in precedenza;
-- **Ragionamento ipotetico:** Nelle dimostrazioni vado a restringere i casi i in cui una certa proposizione (P) valga tramite ipotesi. Se ipotizzo (o suppungo) P non mi interrogo se P vale o meno perché non è di mio interesse al momento.
+	- **Premessa:** Enunciato che assumiamo in quanto ipotesi o dimostrato in precedenza;
+- **Ragionamento ipotetico:** Nelle dimostrazioni vado a restringere i casi i in cui una certa proposizione (P) valga tramite ipotesi. Se ipotizzo (o suppongo) P non mi interrogo se P vale o meno perché non è di mio interesse al momento.
 	- Esempio: per dimostrare $P\to Q$ posso ipotizzare P, non mi interessa dimostrare che P valga, mi interessa dimostrare che se P vale allora vale anche Q
 
 ### <font color=B292D6>Sintassi della logica del prim'ordine</font>
@@ -26,7 +26,7 @@
 - $\forall x\ P$: per ogni $x\ P$, quantificatore universale, vale se $P$ vale per ogni $x$;
 - $\exists x\ P$: esiste $x\ P$, quantificatore esistenziale, vale se $P$ vale per almeno un $x$
 
-Questa è una spiegazione Tarskiana della logica, utile come intoduzione. Non è eccellente perché per spiegare le formule della logica ci rifacciamo alle stesse ($P\land Q$  vale se vale $P$ e $Q$)
+Questa è una spiegazione Tarskiana della logica, utile come introduzione. Non è eccellente perché per spiegare le formule della logica ci rifacciamo alle stesse ($P\land Q$  vale se vale $P$ e $Q$)
 ### <font color=B292D6>Precedenza e associatività</font>
 
 - **Precedenza** (in ordine decrescente: $\lnot,\land,\lor,\to,\iff$;
@@ -60,6 +60,7 @@ Questa è una spiegazione Tarskiana della logica, utile come intoduzione. Non è
 
 ### <font color=B292D6>Assurdo </font> $\bot$
 
+[[Teoria degli insiemi#^614209]]
 
 ### <font color=B292D6>Negazione </font>  $\lnot P$
 
