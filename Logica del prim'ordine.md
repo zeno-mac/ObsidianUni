@@ -50,30 +50,60 @@ Questa è una spiegazione Tarskiana della logica, utile come introduzione. Non �
 ## <font color=8A5BA6>Regole per ogni connettivo</font>
 
 ### <font color=B292D6>Per ogni </font> $\forall x\ P(x)$
- - Eliminazone:
- - Introduzione:
-
+ - Introduzione: Se devo dimostrare $\forall x\ P(x)$ posso assumere una $x$ di cui non so niente e limitarmi a dimostrare $P(x)$  
+	 - Nelle dimostrazioni: "Sia $x$ (un insieme fissato); ..."
+	 - In Lean: "Assume $x$: set"
+ - Eliminazione: Se so che $\forall x$ vale $P(x)$ allora posso prendere un qualsiasi elemento e concludere che $P$ 
 ### <font color=B292D6>Implicazione </font> $P\to Q$
-
-
+ - Introduzione: 
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+ - Eliminazione:  
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
 ### <font color=B292D6>Comimplicazione </font> $P\iff Q$
-
-
+ - Introduzione: 
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+ - Eliminazione:  
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
 ### <font color=B292D6>Assurdo </font> $\bot$
-
-[[Teoria degli insiemi#<font color=B292D6>Assioma dell’insieme vuoto</font>]]
-
+ - Introduzione: 
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+ - Eliminazione:  
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
 ### <font color=B292D6>Negazione </font>  $\lnot P$
-
-
+ - Introduzione: 
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+ - Eliminazione:  
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
 ### <font color=B292D6>Congiunzione </font> $P\land Q$
-
-
+ - Introduzione: 
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+ - Eliminazione:  
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
 ### <font color=B292D6>Or </font> $P\lor Q$
-
-
+ - Introduzione: 
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+ - Eliminazione:  
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
 ### <font color=B292D6>Esiste </font> $\exists x\ P(x)$
-
+ - Introduzione: 
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+ - Eliminazione:  
+	 - Nelle dimostrazioni: 
+	 - In Lean: 
+	 - 
 ## <font color=8A5BA6>Annotazioni generali</font>
 
 ### <font color=B292D6>Abbreviazioni </font>
