@@ -92,7 +92,6 @@ $$
 $$
 
 NB: Questa notazione è un abuso, al momento non sarebbe corretto riscrivere l’assioma di separazione in questo modo. Diventa più avanti dimostrabile tramite logiche e teorie più avanzate, a un livello che in questo corso non raggiungeremo.
-
 ###  <font color=B292D6>Assioma dell’insieme vuoto</font>
 
 $$
@@ -150,7 +149,7 @@ $$
  
 $$
 
-*Parafrasi 1*: per qualsiasi insieme A appartente ad F, ogni elemento X appartenente ad $\bigcap F$ appartiene anche ogni altro insieme Y appartenente ad F
+*Parafrasi 1*: per qualsiasi insieme A appartenente ad F, ogni elemento X appartenente ad $\bigcap F$ appartiene anche ogni altro insieme Y appartenente ad F
 *Parafrasi 2 (informalissima):  $A\in F\ \land \ X\in A\ \land X\in \bigcap F\quad \to \quad \forall Y,\ X\in Y$*
 
 $\bigcap F$ viene anche scritto come $\bigcap _{Y\in F}Y$
