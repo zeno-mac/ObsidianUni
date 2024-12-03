@@ -17,3 +17,6 @@ $$
 
 ### <font color=B292D6>Negazione </font>  $\lnot P$
 
+$$ 
+\dfrac{1\qquad \dfrac{s}{fas}}{2asfdf}
+$$
